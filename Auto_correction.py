@@ -1,4 +1,3 @@
-%%writefile Auto_correction.py
 import streamlit as st
 from textblob import TextBlob
 from langchain.document_loaders import PyPDFLoader
