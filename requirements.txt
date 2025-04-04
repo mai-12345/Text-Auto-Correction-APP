@@ -1,2 +1,6 @@
 streamlit
 textblob
+pypdf
+langchain_community
+PyPDF2
+langchain
